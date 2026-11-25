@@ -1,0 +1,30 @@
+JOHN OTIENO — PORTFOLIO SUBMISSION
+==================================
+
+Live portfolio (short link):
+https://is.gd/john_otieno_security
+
+Direct deployment URL:
+https://elaborate-griffin-326bdf.netlify.app
+
+Access:
+Public. No password or login required.
+
+Quick links:
+- Email:  johnotienobaraka@gmail.com
+- Phone:  +254 111 278 944
+- CV PDF: available from the live site and copied to this submission folder as John_Otieno_CV.pdf
+
+Document:
+John_Otieno_Portfolio_Submission.pdf (14 pages)
+John_Otieno_Portfolio_Submission.docx (editable source)
+
+Screenshots:
+submission/screenshots/ (home, resume top/bottom, projects, labs intro + 3 lab cards, contact)
+submission/mobile/ (390px viewport captures used in the document)
+
+Source:
+John_Otieno_Portfolio_Site.zip
+
+Deployment note:
+The live site is hosted as an anonymous Netlify deploy. To keep it permanently, claim it into a Netlify account or redeploy the folder to your own account / GitHub Pages. Deployment steps are in README.md inside the source ZIP.
