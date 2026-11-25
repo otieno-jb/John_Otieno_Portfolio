@@ -1,10 +1,17 @@
 JOHN OTIENO — PORTFOLIO SUBMISSION
 ==================================
 
-Live portfolio (short link):
-https://is.gd/john_otieno_security
+Primary live portfolio (GitHub Pages):
+https://otieno-jb.github.io/John_Otieno_Portfolio/
 
-Direct deployment URL:
+GitHub repository:
+https://github.com/otieno-jb/John_Otieno_Portfolio
+
+Short link (GitHub Pages):
+https://is.gd/john_otieno_github
+
+Working mirror:
+https://is.gd/john_otieno_security
 https://elaborate-griffin-326bdf.netlify.app
 
 Access:
@@ -13,11 +20,12 @@ Public. No password or login required.
 Quick links:
 - Email:  johnotienobaraka@gmail.com
 - Phone:  +254 111 278 944
+- GitHub: https://github.com/otieno-jb
 - CV PDF: available from the live site and copied to this submission folder as John_Otieno_CV.pdf
 
 Document:
-John_Otieno_Portfolio_Submission.pdf (14 pages)
-John_Otieno_Portfolio_Submission.docx (editable source)
+John_Otieno_Portfolio_Submission_Final.pdf (14 pages)
+John_Otieno_Portfolio_Submission_Final.docx (editable source)
 
 Screenshots:
 submission/screenshots/ (home, resume top/bottom, projects, labs intro + 3 lab cards, contact)
@@ -26,5 +34,6 @@ submission/mobile/ (390px viewport captures used in the document)
 Source:
 John_Otieno_Portfolio_Site.zip
 
-Deployment note:
-The live site is hosted as an anonymous Netlify deploy. To keep it permanently, claim it into a Netlify account or redeploy the folder to your own account / GitHub Pages. Deployment steps are in README.md inside the source ZIP.
+Content note:
+The People First: Human Risk in SACCOs project is currently in development (2026).
+All lab work was performed in isolated, intentionally vulnerable training environments using synthetic data.
