@@ -52,9 +52,9 @@ With the local server running:
 
 ### GitHub Pages (primary)
 
-Push this folder to the `main` branch of <https://github.com/otieno-jb/John_Otieno_Portfolio>. The included workflow at `.github/workflows/pages.yml` builds and deploys the site with GitHub Pages.
+Push this folder to the `main` branch of <https://github.com/otieno-jb/John_Otieno_Portfolio>. GitHub Pages is configured to deploy from the `main` branch root; the `.nojekyll` file keeps the static site intact.
 
-In the repository, open **Settings → Pages** and set **Source** to **GitHub Actions** if it is not already set. The site will publish at:
+In the repository, check **Settings → Pages → Build and deployment**: **Source** should be **Deploy from a branch**, with **Branch: main** and **Folder: / (root)**. The site publishes at:
 
 `https://otieno-jb.github.io/John_Otieno_Portfolio/`
 

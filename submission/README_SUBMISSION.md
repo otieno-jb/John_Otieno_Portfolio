@@ -40,5 +40,5 @@ No password or login is required.
 - The **People First: Human Risk in SACCOs** project is currently **in development** (2026). It is labelled that way on the site, in the CV and in the submission document.
 - The site is a single static page with self-hosted fonts and no build step.
 - Lab evidence is sanitized output from isolated, intentionally vulnerable training environments. No production data is shown.
-- GitHub Pages deployment is configured through `.github/workflows/pages.yml`.
+- GitHub Pages deploys from the `main` branch root, with `.nojekyll` preserving the static files.
 - The Netlify deployment is kept as a working mirror.
